@@ -1,0 +1,10 @@
+#banner > p, #cta > h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.features-row > section > i {
+    font-size:48px;
+    color:rgb(116, 133, 148);
+}
+.navheader {
+    background-color: bisque;
+}
